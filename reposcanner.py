@@ -118,12 +118,12 @@ dependencies:
 dependency_overrides:
   custom_lint:
     git:
-      url: "https://github.com/oskar-zeinomahmalat-sonarsource/dart_custom_lint.git"
+      url: "https://github.com/realansgar/dart_custom_lint.git"
       path: packages/custom_lint/
       ref: feat_workspace
   custom_lint_builder:
     git:
-      url: "https://github.com/oskar-zeinomahmalat-sonarsource/dart_custom_lint.git"
+      url: "https://github.com/realansgar/dart_custom_lint.git"
       path: packages/custom_lint_builder/
       ref: feat_workspace
 """)

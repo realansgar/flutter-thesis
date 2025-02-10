@@ -17,7 +17,7 @@ See this Discuss post for more info and links to the thesis/slides.
     - path to the `bin` directory of both Flutter SDKs
   - reads repos from `app` table from SQLite
   - clones all repos if they don't exist yet
-  - runs lint rules on all repos using a modified version of the [custom_lint](https://pub.dev/packages/custom_lint) package. Modified version is located here: [oskar-zeinomahmalat-sonarsource/dart_custom_lint: feat_workspace](https://github.com/oskar-zeinomahmalat-sonarsource/dart_custom_lint/tree/feat_workspace)
+  - runs lint rules on all repos using a modified version of the [custom_lint](https://pub.dev/packages/custom_lint) package. Modified version is located here: [realansgar/dart_custom_lint: feat_workspace](https://github.com/realansgar/dart_custom_lint/tree/feat_workspace)
   - saves findings in SQLite in `finding` table
 - `thesis_lints/`: lint rules that detect APIs and 3 dangerous code patterns
 
