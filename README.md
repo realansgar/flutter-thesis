@@ -1,7 +1,5 @@
 # "Exploring Dangerous Code Patterns in Flutter Android Apps" Master thesis - Experimental Code
 
-See this Discuss post for more info and links to the thesis/slides.
-
 ## Repo structure
 
 - `create_db.sql`: SQLite schema
