@@ -1,0 +1,9 @@
+analyzer:
+  exclude:
+    - test/**
+  plugins:
+    - custom_lint
+
+custom_lint:
+  debug: true
+  verbose: true

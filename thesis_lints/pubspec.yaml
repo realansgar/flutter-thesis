@@ -1,0 +1,15 @@
+name: thesis_lints
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.5.3
+
+# Add regular dependencies here.
+dependencies:
+  analyzer:
+  analyzer_plugin:
+  collection: 
+  custom_lint_builder: ^0.7.0
+  sqlite3:
